@@ -42,3 +42,8 @@ python srtf_gui.py
 ├── srtf_logic.py
 ├── __init__.py
 ├── README.md
+
+Submitted by: Bhoomi Samnotra  
+Roll No: DYD-23-03 
+Course: B.Tech  
+Subject: Operating Systems – Minor Project 
